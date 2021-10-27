@@ -13,3 +13,14 @@ npm i --save react react-dom react-scripts
     
 (server)
 It's up to you!
+
+
+# VSCode settings.json
+"files.associations": {
+"*.js": "javascript",
+"*.jsx": "javascriptreact",
+},
+"emmet.triggerExpansionOnTab": true,
+"emmet.includeLanguages": {
+    "javascriptreact": "javascriptreact"
+},
