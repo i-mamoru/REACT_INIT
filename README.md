@@ -4,7 +4,7 @@
 npm init -y
 
 (client)
-npm i --save react react-dom react-scripts
+npm i --save react react-dom react-scripts react-router-dom
 >package.json
   >scripts
     "start": "PORT=3000 react-scripts start",
